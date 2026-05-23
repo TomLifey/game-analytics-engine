@@ -19,13 +19,12 @@ This project was developed as part of the [Insert Name of Course/Program] to ana
 2. Run the engine using:
 ```bash
    python main.py
-
-
-
----
+   ```
+   ---
 
 ## Author
 **Mustafa Khalid**  
 [LinkedIn](https://www.linkedin.com/in/mustafa-khalid) | [GitHub](https://github.com/TomLifey)
 
 *Aspiring Data Scientist & Software Developer*
+
