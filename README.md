@@ -3,7 +3,7 @@
 A custom analytics engine designed to track and process game data.
 
 ## Description
-This project was developed as part of the [Insert Name of Course/Program] to analyze game performance and player metrics. It focuses on [mention 1-2 key things, e.g., efficient data processing, Python scripting, etc.].
+This project was developed as part of the [Code In Place Course] to analyze game performance and player metrics. It focuses on [mention 1-2 key things, e.g., efficient data processing, Python scripting, etc.].
 
 ## Features
 *   **Data Ingestion:** [Briefly describe how it handles data]
