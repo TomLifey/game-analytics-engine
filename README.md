@@ -24,7 +24,7 @@ This project was developed as part of the [Insert Name of Course/Program] to ana
 
 ## Author
 **Mustafa Khalid**  
-[LinkedIn](https://www.linkedin.com/in/mustafa-khalid) | [GitHub](https://github.com/TomLifey)
+[LinkedIn](https://www.linkedin.com/in/mostfakhaled) | [GitHub](https://github.com/TomLifey)
 
 *Aspiring Data Scientist & Software Developer*
 
